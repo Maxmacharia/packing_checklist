@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React, { useState } from "react";
+import { items, otherItems } from "./data";
+import Header from "./components/Header";
+import Checklist from "./components/Checklist";
+import Footer from "./components/Footer";
+import OtherItemsList from "./components/OtherItemsList";
 
 function App() {
+  const [itemList, setItemList] = useState(items);
+
+  const handleQuantityChange = (id, newQuantity) => {
+    setItemList((prevItems) =>
+      prevItems.map((item) =>
+        item.id === id ? { ...item, quantity: newQuantity } : item
+      )
+    );
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex flex-col min-h-screen bg-gray-100">
+      <Header />
+      <main className="flex-grow flex flex-col items-center">
+        <Checklist items={itemList} onQuantityChange={handleQuantityChange} />
+        <OtherItemsList items={otherItems} />
+      </main>
+      <Footer />
     </div>
   );
 }
