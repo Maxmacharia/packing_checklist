@@ -155,6 +155,11 @@ export const otherItems = [
     description: "h7 360 degrees led light.",
   },
   {
+    id: 22,
+    name: "H4B 12v (1 packet) ",
+    description: "H4B 12v",
+  },
+  {
     id: 20,
     name: "Cut out (20 pcs)",
     description: "Yenye inaingia na 80.",
