@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/packing_checklist/static/css/main.54da2972.css",
-    "main.js": "/packing_checklist/static/js/main.5989fe08.js",
+    "main.js": "/packing_checklist/static/js/main.77631754.js",
     "static/js/453.603cc60d.chunk.js": "/packing_checklist/static/js/453.603cc60d.chunk.js",
     "static/media/freelight_long.jpeg": "/packing_checklist/static/media/freelight_long.814817b8076459f4769d.jpeg",
+    "static/media/strobes.jpeg": "/packing_checklist/static/media/strobes.b61dea337f821b60a752.jpeg",
     "static/media/brake_step.jpeg": "/packing_checklist/static/media/brake_step.daea2c4b46ab5b82ede3.jpeg",
     "static/media/bseoch_electric_horn.jpeg": "/packing_checklist/static/media/bseoch_electric_horn.7b73561b3a9af6478777.jpeg",
     "static/media/police_light.jpeg": "/packing_checklist/static/media/police_light.e2c0d576a7895204c2dc.jpeg",
@@ -12,16 +13,18 @@
     "static/media/headlight_lamp.jpeg": "/packing_checklist/static/media/headlight_lamp.22136f3c5e2569541944.jpeg",
     "static/media/t20_single.jpeg": "/packing_checklist/static/media/t20_single.269ea8d86a44328ca1b1.jpeg",
     "static/media/globe.jpeg": "/packing_checklist/static/media/globe.72b5a3b1809b161b0f12.jpeg",
+    "static/media/press_switch.jpg": "/packing_checklist/static/media/press_switch.381c768750ae27e89b66.jpg",
+    "static/media/switch.jpeg": "/packing_checklist/static/media/switch.015000e78aaa79dc3ec6.jpeg",
     "static/media/compat_twin_horn.jpeg": "/packing_checklist/static/media/compat_twin_horn.a9a106713513fcd963e8.jpeg",
     "static/media/parking_bulb.jpeg": "/packing_checklist/static/media/parking_bulb.fcda8bd2d8cd61126a72.jpeg",
     "static/media/2-eye_policelight.jpeg": "/packing_checklist/static/media/2-eye_policelight.fcdc106a44707363429f.jpeg",
     "index.html": "/packing_checklist/index.html",
     "main.54da2972.css.map": "/packing_checklist/static/css/main.54da2972.css.map",
-    "main.5989fe08.js.map": "/packing_checklist/static/js/main.5989fe08.js.map",
+    "main.77631754.js.map": "/packing_checklist/static/js/main.77631754.js.map",
     "453.603cc60d.chunk.js.map": "/packing_checklist/static/js/453.603cc60d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54da2972.css",
-    "static/js/main.5989fe08.js"
+    "static/js/main.77631754.js"
   ]
 }
