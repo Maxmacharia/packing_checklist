@@ -174,5 +174,10 @@ export const otherItems = [
     name: "Any other new thing in market",
     description: "Please add anything new if possible.",
   },
+  {
+    id: 23,
+    name: "Payment details",
+    description: "Paid 12,515 on 14/08/2024.",
+  },
   // Add more items without images as needed
 ];
