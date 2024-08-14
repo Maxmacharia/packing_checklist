@@ -14,6 +14,9 @@ import image12 from './images/parking_bulb.jpeg';
 import image13 from './images/parking_bulb.jpeg';
 import image14 from './images/parking_bulb.jpeg';
 import image15 from './images/compat_twin_horn.jpeg';
+import image16 from './images/switch.jpeg';
+import image17 from './images/press_switch.jpg';
+import image18 from './images/strobes.jpeg';
 
 export const items = [
   {
@@ -121,22 +124,48 @@ export const items = [
     description: "compat_twin_horn.",
     quantity: 2,  // Initial quantity
   },
+  {
+    id: 16,
+    name: "switch (20 pcs)",
+    image: image16,  // Use the imported image
+    description: "switch.",
+    quantity: 20,  // Initial quantity
+  },
+  {
+    id: 17,
+    name: "press_switch (20 pcs)",
+    image: image17,  // Use the imported image
+    description: "press_switch.",
+    quantity: 20,  // Initial quantity
+  },
+  {
+    id: 18,
+    name: "strobes za yellow (5 pcs)",
+    image: image18,  // Use the imported image
+    description: "strobes za yellow.",
+    quantity: 5,  // Initial quantity
+  },
   
   // Add more items as needed
 ];
 export const otherItems = [
   {
-    id: 16,
+    id: 19,
+    name: "h7 360 degrees led light(2 pcs)",
+    description: "h7 360 degrees led light.",
+  },
+  {
+    id: 20,
     name: "Cut out (20 pcs)",
     description: "Yenye inaingia na 80.",
   },
   {
-    id: 16,
+    id: 21,
     name: "Cut out switch (20 pcs)",
     description: "Hii ni switch pekee yake bila wire.",
   },
   {
-    id: 17,
+    id: 22,
     name: "Any other new thing in market",
     description: "Please add anything new if possible.",
   },
