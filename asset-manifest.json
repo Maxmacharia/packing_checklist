@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/packing_checklist/static/css/main.54da2972.css",
-    "main.js": "/packing_checklist/static/js/main.0e6a1daf.js",
+    "main.js": "/packing_checklist/static/js/main.81cd89b3.js",
     "static/js/453.603cc60d.chunk.js": "/packing_checklist/static/js/453.603cc60d.chunk.js",
     "static/media/arrow.jpg": "/packing_checklist/static/media/arrow.4ae47c779b3ee1b273cf.jpg",
     "static/media/tube.jpg": "/packing_checklist/static/media/tube.0ee6594df1d289fcccb4.jpg",
     "static/media/minilight.jpeg": "/packing_checklist/static/media/minilight.dde67b2a44cdf582a158.jpeg",
     "static/media/brake_step.jpeg": "/packing_checklist/static/media/brake_step.daea2c4b46ab5b82ede3.jpeg",
     "static/media/minilight_2eye.jpeg": "/packing_checklist/static/media/minilight_2eye.b0b973bd44a5eebf763d.jpeg",
-    "static/media/minilight_lookalike.jpeg": "/packing_checklist/static/media/minilight_lookalike.d4902054bd02675bfc23.jpeg",
     "static/media/radiator_cup.jpg": "/packing_checklist/static/media/radiator_cup.b584c6a74ac74844ec98.jpg",
     "static/media/klaxcar_double.jpeg": "/packing_checklist/static/media/klaxcar_double.ed512c0408c58a50239f.jpeg",
     "static/media/headlight_lamp.jpeg": "/packing_checklist/static/media/headlight_lamp.22136f3c5e2569541944.jpeg",
@@ -23,11 +22,11 @@
     "static/media/2-eye_policelight.jpeg": "/packing_checklist/static/media/2-eye_policelight.fcdc106a44707363429f.jpeg",
     "index.html": "/packing_checklist/index.html",
     "main.54da2972.css.map": "/packing_checklist/static/css/main.54da2972.css.map",
-    "main.0e6a1daf.js.map": "/packing_checklist/static/js/main.0e6a1daf.js.map",
+    "main.81cd89b3.js.map": "/packing_checklist/static/js/main.81cd89b3.js.map",
     "453.603cc60d.chunk.js.map": "/packing_checklist/static/js/453.603cc60d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54da2972.css",
-    "static/js/main.0e6a1daf.js"
+    "static/js/main.81cd89b3.js"
   ]
 }
