@@ -2,7 +2,7 @@
 import image1 from './images/klaxcar_double.jpeg';
 import image2 from './images/minilight_2eye.jpeg';
 import image3 from './images/minilight.jpeg';
-//import image4 from './images/minilight_lookalike.jpeg';
+import image4 from './images/4_eye.png';
 import image5 from './images/2-eye_policelight.jpeg'
 import image6 from './images/brake_step.jpeg';
 import image7 from './images/brake_light.jpeg';
@@ -18,6 +18,8 @@ import image16 from './images/press_switch.jpg';
 import image17 from './images/tube.jpg';
 import image18 from './images/tube.jpg';
 import image19 from './images/compat_twin_horn.jpeg';
+import image20 from './images/mini_sidelight.png';
+import image21 from './images/spotlight.png';
 export const items = [
   {
     id: 1,
@@ -158,37 +160,58 @@ export const items = [
     image: image19,  // Use the imported image
     description: "compat_twin_horn.",
     quantity: 2,  // Initial quantity
-  },  
+  },
+  {
+    id: 21,
+    name: "minilight_sidelight (10 pcs)",
+    image: image20,  // Use the imported image
+    description: "minilight_sidelight.",
+    quantity: 10,  // Initial quantity
+  },
+  {
+    id: 22,
+    name: "spotlight (4 pcs)",
+    image: image21,  // Use the imported image
+    description: "compat_twin_horn.",
+    quantity: 4,  // Initial quantity
+  },
+	{
+    id: 23,
+    name: "4 eye light ( 6 pcs)",
+    image: image4,  // Use the imported image
+    description: "4 eye light.",
+    quantity: 6,  // Initial quantity
+  },
   // Add more items as needed
 ];
 export const otherItems = [
   {
-    id: 19,
+    id: 24,
     name: "h7 360 degrees led light(2 pcs)",
     description: "h7 360 degrees led light.",
   },
   {
-    id: 22,
+    id: 25,
     name: "H4B 12v (1 packet) ",
     description: "H4B 12v",
   },
   {
-    id: 20,
+    id: 26,
     name: "h1, h3, h7 and h11 za koito 12 v (1 pkt each)",
     description: "Koito product each",
   },
   {
-    id: 21,
+    id: 27,
     name: "flasher (5 pcs)",
     description: "flasher.",
   },
   {
-    id: 22,
+    id: 28,
     name: "Any other new thing in market",
     description: "Please add anything new if possible.",
   },
   {
-    id: 23,
+    id: 29,
     name: "Payment details",
     description: "Paid 21,100 on 19/08/2024.",
   },
