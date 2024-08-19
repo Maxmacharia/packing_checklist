@@ -2,7 +2,7 @@
 import image1 from './images/klaxcar_double.jpeg';
 import image2 from './images/minilight_2eye.jpeg';
 import image3 from './images/minilight.jpeg';
-import image4 from './images/minilight_lookalike.jpeg';
+//import image4 from './images/minilight_lookalike.jpeg';
 import image5 from './images/2-eye_policelight.jpeg'
 import image6 from './images/brake_step.jpeg';
 import image7 from './images/brake_light.jpeg';
@@ -42,10 +42,10 @@ export const items = [
   },
    {
     id: 4,
-    name: "minilight_lookalike (5 pcs)",
-    image: image4,  // Use the imported image
-    description: "minilight_lookalike.",
-    quantity: 5,  // Initial quantity
+    name: "brake_light_rgb(10 pcs)",
+    image: image7,  // Use the imported image
+    description: "brake_light.",
+    quantity: 10,  // Initial quantity
   },
    {
     id: 5,
@@ -66,7 +66,7 @@ export const items = [
     name: "brake_light red(20 pcs)",
     image: image7,  // Use the imported image
     description: "brake_light red.",
-    quantity: 2,  // Initial quantity
+    quantity: 20,  // Initial quantity
   },
   {
     id: 8,
@@ -108,7 +108,7 @@ export const items = [
     name: "parking_bulb blue (10 pcs)",
     image: image13,  // Use the imported image
     description: "parking_bulb.",
-    quantity: 1,  // Initial quantity
+    quantity: 10,  // Initial quantity
   },
   {
     id: 14,
