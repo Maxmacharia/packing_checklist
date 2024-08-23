@@ -1,35 +1,29 @@
 {
   "files": {
     "main.css": "/packing_checklist/static/css/main.54da2972.css",
-    "main.js": "/packing_checklist/static/js/main.ec5a369d.js",
+    "main.js": "/packing_checklist/static/js/main.3d7e8702.js",
     "static/js/453.603cc60d.chunk.js": "/packing_checklist/static/js/453.603cc60d.chunk.js",
-    "static/media/arrow.jpg": "/packing_checklist/static/media/arrow.4ae47c779b3ee1b273cf.jpg",
     "static/media/tube.jpg": "/packing_checklist/static/media/tube.0ee6594df1d289fcccb4.jpg",
+    "static/media/strobes.jpeg": "/packing_checklist/static/media/strobes.b61dea337f821b60a752.jpeg",
     "static/media/4_eye.png": "/packing_checklist/static/media/4_eye.7740569da7d32c0aff34.png",
     "static/media/minilight.jpeg": "/packing_checklist/static/media/minilight.dde67b2a44cdf582a158.jpeg",
-    "static/media/brake_step.jpeg": "/packing_checklist/static/media/brake_step.daea2c4b46ab5b82ede3.jpeg",
-    "static/media/spotlight.png": "/packing_checklist/static/media/spotlight.765fb17ef509f7d7c010.png",
-    "static/media/minilight_2eye.jpeg": "/packing_checklist/static/media/minilight_2eye.b0b973bd44a5eebf763d.jpeg",
-    "static/media/radiator_cup.jpg": "/packing_checklist/static/media/radiator_cup.b584c6a74ac74844ec98.jpg",
+    "static/media/on_off.jpeg": "/packing_checklist/static/media/on_off.f5125f1b9b644c352a2d.jpeg",
+    "static/media/360_led_light.jpeg": "/packing_checklist/static/media/360_led_light.bc1b35445ad545ca5812.jpeg",
+    "static/media/denso_horn.jpeg": "/packing_checklist/static/media/denso_horn.0e443cdcf1e29895b5bb.jpeg",
+    "static/media/golden.jpeg": "/packing_checklist/static/media/golden.533bcacbc0d6adad7365.jpeg",
     "static/media/klaxcar_double.jpeg": "/packing_checklist/static/media/klaxcar_double.ed512c0408c58a50239f.jpeg",
-    "static/media/headlight_lamp.jpeg": "/packing_checklist/static/media/headlight_lamp.22136f3c5e2569541944.jpeg",
-    "static/media/globe.jpeg": "/packing_checklist/static/media/globe.72b5a3b1809b161b0f12.jpeg",
-    "static/media/h3_zinno.jpg": "/packing_checklist/static/media/h3_zinno.4a1d04a690b8c0c422aa.jpg",
-    "static/media/h11_zinno.jpg": "/packing_checklist/static/media/h11_zinno.895ab0149aad2198c4e9.jpg",
-    "static/media/h1_zinno.jpg": "/packing_checklist/static/media/h1_zinno.971bcd4611d2d70af872.jpg",
-    "static/media/press_switch.jpg": "/packing_checklist/static/media/press_switch.381c768750ae27e89b66.jpg",
-    "static/media/compat_twin_horn.jpeg": "/packing_checklist/static/media/compat_twin_horn.a9a106713513fcd963e8.jpeg",
+    "static/media/normal_parking_bulb.jpeg": "/packing_checklist/static/media/normal_parking_bulb.b4d66779db366d6487e0.jpeg",
+    "static/media/t20_single.jpeg": "/packing_checklist/static/media/t20_single.269ea8d86a44328ca1b1.jpeg",
+    "static/media/fuse.jpeg": "/packing_checklist/static/media/fuse.cf2f66a9138e7e87cffe.jpeg",
     "static/media/brake_light.jpeg": "/packing_checklist/static/media/brake_light.6824c8c80dfe5657ec4e.jpeg",
-    "static/media/mini_sidelight.png": "/packing_checklist/static/media/mini_sidelight.aa65a89e931272a63e25.png",
-    "static/media/parking_bulb.jpeg": "/packing_checklist/static/media/parking_bulb.fcda8bd2d8cd61126a72.jpeg",
     "static/media/2-eye_policelight.jpeg": "/packing_checklist/static/media/2-eye_policelight.fcdc106a44707363429f.jpeg",
     "index.html": "/packing_checklist/index.html",
     "main.54da2972.css.map": "/packing_checklist/static/css/main.54da2972.css.map",
-    "main.ec5a369d.js.map": "/packing_checklist/static/js/main.ec5a369d.js.map",
+    "main.3d7e8702.js.map": "/packing_checklist/static/js/main.3d7e8702.js.map",
     "453.603cc60d.chunk.js.map": "/packing_checklist/static/js/453.603cc60d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54da2972.css",
-    "static/js/main.ec5a369d.js"
+    "static/js/main.3d7e8702.js"
   ]
 }
