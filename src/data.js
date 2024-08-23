@@ -211,6 +211,11 @@ export const items = [
 export const otherItems = [
   {
     id: 26,
+    name: "bulb za orange 12v na 24v 1 pcs each (cupless na yeye si cupless)",
+    description: "bulb za orange",
+  },
+  {
+    id: 27,
     name: "Any other new thing in market",
     description: "Please add anything new if possible.",
   },
